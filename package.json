@@ -1,0 +1,28 @@
+{
+  "name": "comeon-javascript-test",
+  "version": "1.0.0",
+  "description": "comeon test",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoharanshibu/react-redux-router.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "router",
+    "comeon"
+  ],
+  "author": "Shibu Manoharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoharanshibu/react-redux-router/issues"
+  },
+  "homepage": "https://github.com/manoharanshibu/react-redux-router#readme"
+}
